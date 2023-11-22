@@ -1,5 +1,5 @@
 # Task Manager Backend Using Spring Boot
-This project is the backend of a Task Manager. It uses Java Spring Boot and MySQL for database management. The application includes RESTful APIs for Task Manager and (Manager and Developer) registration. And JWT for the authorization. The application is hosted on AWS EC2 .
+This project is the backend of a Task Manager. It uses Java Spring Boot and MySQL for database management. The application includes RESTful APIs for Task Manager and (Manager and Developer) registration. And JWT for the authorization. The application is hosted on AWS EC2 and S3 .
  
 # Prerequisites
 Java 17 \
